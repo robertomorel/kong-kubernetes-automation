@@ -111,3 +111,9 @@ Os manifestos devem estar armazenados dentro de um repositório git.
 - Spectral: Validar arquivos e contratos. Garantir a conformidade do padrão do contrato.
 - Postman: Testes do contrato.
 - ArgoCD: GitOps operator. Olha um repo e aplica o estado da Main no cluster
+
+---
+
+## Exemplo
+
+Clique [aqui](https://github.com/robertomorel/bets-app) para ver um exemplo de projeto em Golang para utilização de todas as ferramentas citadas.
