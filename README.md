@@ -107,10 +107,10 @@ Os manifestos devem estar armazenados dentro de um repositório git.
 
 #### Ferramentas
 
-- Github Actions: provê o mecanismo para disparar fluxos em determinadas situações
+- Github Actions (CI): provê o mecanismo para disparar fluxos em determinadas situações
 - Spectral: Validar arquivos e contratos. Garantir a conformidade do padrão do contrato.
 - Postman: Testes do contrato.
-- ArgoCD: GitOps operator. Olha um repo e aplica o estado da Main no cluster
+- ArgoCD (CD): GitOps operator. Olha um repo e aplica o estado da Main no cluster
 
 ---
 
