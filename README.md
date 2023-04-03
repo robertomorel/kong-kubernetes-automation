@@ -2,7 +2,7 @@
 
 O Kong Enterprise é a solução de gerenciamento de API mais rápida, com mais recursos avançados e segura criada no Kong Gateway — o gateway de API mais adotado do mundo.
 
-Documentação: `https://konghq.com/products/kong-gateway`
+> [Documentação](https://konghq.com/products/kong-gatewa)
 
 ## Conceitos
 
@@ -110,3 +110,4 @@ Os manifestos devem estar armazenados dentro de um repositório git.
 - Github Actions: provê o mecanismo para disparar fluxos em determinadas situações
 - Spectral: Validar arquivos e contratos. Garantir a conformidade do padrão do contrato.
 - Postman: Testes do contrato.
+- ArgoCD: GitOps operator. Olha um repo e aplica o estado da Main no cluster
